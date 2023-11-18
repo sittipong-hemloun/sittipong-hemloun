@@ -4,7 +4,7 @@ Hi! I'm **Sittipong Hemloun**
 Currently a 3rd-year Computer Science student at Kasetsart University. Passionate about web development, I love building things and experimenting. Always on the lookout for new opportunities to improve my coding skills and more. I sincerely hope to be a part of some of the coolest innovations in the future.
 
 * 🌍  I'm based in Bangkok and Chonburi
-* 🖥️  See my portfolio at [my portfolio](http://sittipong.dev)
+* 🖥️  See my portfolio at [www.sittipong.dev](http://sittipong.dev)
 * ✉️  You can contact me at [hemloun.s@gmail.com](mailto:hemloun.s@gmail.com)
 
 ### Skills
@@ -14,8 +14,6 @@ Currently a 3rd-year Computer Science student at Kasetsart University. Passionat
 </p>
 
 ### Badges
-
-<b>My GitHub Stats</b>
 
 <table style="border: 0; width: 80%; margin: 0 auto;">
   <tr>

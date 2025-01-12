@@ -1,6 +1,3 @@
-Hi! I'm **Sittipong Hemloun**
-==================================
-
 Passionate about test development. Sincerely hope to be a part of some of the coolest innovations in the future.
 
 <p align="left">
